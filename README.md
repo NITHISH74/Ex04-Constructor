@@ -4,7 +4,29 @@
  
  ## Algorithm:
  ### Step1:
- 
+ Start the C# program in visual studio 2022.
+ ### Step2:
+ Create a class and a constructor.
+ ### Step3:
+ Get employee name, Designation, No of experience, basic salary and insurance amount from the User.
+
+
+ ### Step4:
+Call salary method in constructor to calculate salary.
+
+
+ ### Step5:
+Call display method to display the output.
+
+ ### Step6:
+ Stop the C# program and Run the prgram.
+ ### Step7:
+ Take the screenshot of the output.
+ ### Step8:
+ Close.
+
+
+
  
  
  ## Program:
@@ -62,3 +84,4 @@ class TestEmployee
  ![image](https://user-images.githubusercontent.com/94164665/166908225-60750884-ed22-43c1-b62b-44874d3143a4.png)
 
  ## Result:
+Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
